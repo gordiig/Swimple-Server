@@ -56,3 +56,15 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Mac OS
+*.DS_Store
+
+# PyCharm
+.idea
+
+# SQLite
+*.sqlite3
+
+# venv
+venv/
